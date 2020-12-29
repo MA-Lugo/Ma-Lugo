@@ -1,5 +1,5 @@
 ### Hola 👋, soy Mario Alberto Lugo
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://drive.google.com/file/d/1fH4-ohlM8aSTcqwBUrXze_IJlTIZrc5s/view?usp=sharing)
 
 
 Habilidades: Microcontrollers / C / Python / MicroPython / PCB Design / IoT
