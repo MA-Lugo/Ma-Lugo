@@ -1,4 +1,4 @@
-![image](https://drive.google.com/uc?export=view&id=1fH4-ohlM8aSTcqwBUrXze_IJlTIZrc5s)
+
 ### Hola 👋, soy Mario Alberto Lugo 
 
 Habilidades: Microcontroladores / C / Python / MicroPython / Diseño de PCB / IoT
