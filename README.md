@@ -1,5 +1,6 @@
 
-### Hola 👋, soy Mario Alberto Lugo 
+### Hola 👋, soy Mario Alberto Lugo apasionado de la electrónica y los sistemas embebidos.
+
 
 Habilidades: Microcontroladores / C / Python / MicroPython / Diseño de PCB / IoT
 
